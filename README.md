@@ -78,3 +78,27 @@ It captures every click, scroll, hesitation, and frustration signal to uncover h
 ✅ **Used by**: UX Researchers, CX, Marketing, CSMs  
 🎯 **Goal**: Collect and act on qualitative user feedback
 
+# 📊 Contentsquare vs Competitors – Feature Comparison
+
+| Platform           | Session Replay | Heatmaps | Journey Analysis | Product Analytics | Frustration Detection | VoC Integration       | Ease of Use | Best For                                     |
+|--------------------|----------------|----------|------------------|-------------------|------------------------|------------------------|-------------|----------------------------------------------|
+| **Contentsquare**  | ✅              | ✅        | ✅                | ✅ (via Heap)      | ✅                      | ✅                      | High        | Enterprise UX, Product & Marketing Teams      |
+| Google Analytics   | ❌              | ❌        | ✅ (basic)        | ❌                 | ❌                      | ❌                      | Medium      | Web Traffic Analytics                         |
+| Adobe Analytics    | ❌              | ❌        | ✅                | ✅                 | ❌                      | ❌                      | Low         | Enterprise Marketing Teams                    |
+| Mixpanel           | ❌              | ❌        | ❌                | ✅                 | ❌                      | ❌                      | Medium      | Product-Led SaaS                              |
+| Amplitude          | ❌              | ❌        | ❌                | ✅                 | ❌                      | ❌                      | Medium      | Product Teams & Growth Analysts               |
+| Hotjar             | ✅              | ✅        | ❌                | ❌                 | ❌                      | ✅ (basic)              | High        | Startups & SMBs                               |
+| FullStory          | ✅              | ❌        | ✅ (basic)        | ❌                 | ✅                      | ❌                      | Medium      | UX/Dev Teams Focused on Replay                |
+
+---
+
+## ✅ Summary: Why Contentsquare Wins
+
+- Combines **behavioral analytics**, **session replay**, **product analytics**, and **voice of customer** in one platform.
+- Offers **visual-first insights** (heatmaps, journeys, replays).
+- Works **without cookies** (privacy-first).
+- Connects **UX issues directly to revenue impact**.
+- Supports teams across **UX, product, marketing, and development**.
+
+> 🎯 Contentsquare delivers a full 360° understanding of digital experience — not just what users do, but *why* they do it, and how it impacts the business.
+
