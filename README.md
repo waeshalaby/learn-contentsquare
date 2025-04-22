@@ -78,15 +78,3 @@ It captures every click, scroll, hesitation, and frustration signal to uncover h
 ✅ **Used by**: UX Researchers, CX, Marketing, CSMs  
 🎯 **Goal**: Collect and act on qualitative user feedback
 
----
-
-## 🧠 Strategic Power of Contentsquare
-
-Contentsquare combines:
-- **What users do (DXA)**
-- **How fast the experience is (DEM)**
-- **How they use features (Product Analytics)**
-- **And what they say (VoC)**
-
-➡️ A complete 360° view of digital experience  
-➡️ Backed by behavioral, emotional, and technical data
